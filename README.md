@@ -16,3 +16,7 @@
 - GitHub
 - VS Code
 - Jupyter Notebook
+
+## 学习收获
+
+通过这个项目，我开始理解如何使用 GitHub 管理科研学习项目，包括 README、项目结构和 commit 的基本作用。
